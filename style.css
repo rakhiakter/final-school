@@ -1,0 +1,141 @@
+#icon {
+    height: 100px;
+    width: 300px;
+}
+
+#sign-in {
+    background-image: linear-gradient(to bottom, rgb(52, 180, 52) 0%, rgb(56, 207, 56) 100%);
+    color: #fff;
+    border: none;
+    padding: 9px 25px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+h4 {
+    color: red;
+}
+
+span {
+    color: green;
+}
+
+#paragraph {
+    padding: 20px 40px;
+}
+
+.get-started {
+    background-image: linear-gradient(to bottom, rgb(52, 180, 52) 0%, rgb(56, 207, 56) 100%);
+    color: #fff;
+    border: none;
+    padding: 12px 40px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.card {
+    border: none;
+    box-shadow: 8px 8px 10px lightgray;
+    border-radius: 5px;
+}
+
+.information {
+    padding: 30px 25px;
+}
+
+.card-img-top {
+    width: 70px;
+    padding-top: 20px;
+}
+
+h5 {
+    text-align: center;
+}
+
+.card-text {
+    text-align: center;
+}
+
+.card-footer {
+    background-color: white;
+    border-top: none;
+}
+
+.buy-course {
+    background-image: linear-gradient(to bottom, rgb(52, 180, 52) 0%, rgb(56, 207, 56) 100%);
+    color: #fff;
+    border: none;
+    padding: 12px 40px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.physics {
+    height: 20px;
+    padding: 30px 25px;
+}
+
+.online-courses {
+    text-align: center;
+}
+
+.bottom-icon {
+    width: 40px;
+}
+
+.green-bg {
+    background-color: #f0fff0;
+}
+
+img.top-img {
+    width: 300px;
+}
+
+.date {
+    margin-right: 10px;
+}
+
+.container.physics {
+    height: 600px;
+}
+
+#text {
+    text-align: center;
+}
+
+#teach {
+    height: 500px;
+    padding: 100px;
+}
+
+h6 {
+    text-align: center;
+}
+
+.footer-bg {
+    background-color: darkslateblue;
+    color: #fff;
+    padding-top: 50px;
+}
+
+#around {
+    height: 20px;
+    padding: 50px;
+}
+
+.design {
+    text-align: justify;
+}
+
+#testimonial {
+    height: 100px;
+}
+@media (max-width: 500px){
+    .container-sm {
+        height: 1200px !important;
+    }
+}
+#git-hub{
+    text-align: center;
+}
+
